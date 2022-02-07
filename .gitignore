@@ -16,3 +16,4 @@ tmp/
 /bundle
 /*.pyz
 /pyrightconfig.json
+.idea/
